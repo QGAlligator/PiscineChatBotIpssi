@@ -32,8 +32,14 @@
 .image-2 {
     height: 20em;
     width: 30em;
-    float: left;
+    float: right;
     margin: 0 10px 10px 0;
+}
+
+.image-3 {
+    height: 40em;
+    width: 30em;
+    float: right;
 }
 
 .chatbot {
