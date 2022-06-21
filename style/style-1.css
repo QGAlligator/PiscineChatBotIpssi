@@ -1,13 +1,9 @@
-body{
-    
-}
 
 
 .title-1 {
     font-size: 3em;
     color : #fff;
     text-align: center;
-
     
 }
 .style {
@@ -24,11 +20,17 @@ body{
     color:rgb(255, 187, 0);
 }
 
+.image-1 {
+    height: 20em;
+    width: 30em;
+    float: left;
+    margin: 0 10px 10px 0;
+}
 
 .chatbot {
-    min-width: 400px; 
-    width: 400px; 
-    min-height: 500px;
+    min-width: 300px; 
+    width: 300px; 
+    min-height: 400px;
     position: fixed;
     top: 100px;
     right: 0px;
@@ -37,3 +39,7 @@ body{
     z-index: 999;
 }
 
+.style-gras {
+    font-weight: bold;
+    opacity: 0.8;
+}
