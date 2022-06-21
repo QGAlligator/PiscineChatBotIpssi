@@ -40,6 +40,7 @@
     height: 40em;
     width: 30em;
     float: right;
+    margin-right: 40em;
 }
 
 .chatbot {
@@ -56,8 +57,4 @@
 
 .style-gras {
     font-weight: bold;
-}
-
-.image-3 {
-    margin-right: 45em;
 }
