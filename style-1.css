@@ -61,3 +61,7 @@
 .style-gras {
     font-weight: bold;
 }
+
+div.card {
+    border: 0px;
+}
